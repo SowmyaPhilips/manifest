@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- server settings -->
-    <remote  name="origin" fetch="https://github.com/SowmyaCode/" />
+    <remote  name="origin" fetch="https://github.com/SowmyaPhilips/" />
     <default revision="master" remote="origin" sync-j="8" />
   <project name="linux_app" path="app" />
   <project name="linux_driver" path="driver" />
